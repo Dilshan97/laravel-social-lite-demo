@@ -85,15 +85,13 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="{{ url('/login/facebook') }}" class="btn btn-dark"><i class="fab fa-github"></i> Facebook</a>
+                    <a href="{{ url('/login/google') }}" class="btn btn-dark"><i class="fab fa-github"></i> Google</a>
+                    <a href="{{ url('/login/github') }}" class="btn btn-dark"><i class="fab fa-github"></i> Github</a>
                 </div>
             </div>
         </div>
+
+
     </body>
 </html>
