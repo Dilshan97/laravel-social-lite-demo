@@ -7,7 +7,7 @@
 
             <div class="login-box">
                 <div class="login-logo">
-                    <a href=""><b>Admin</b>LTE</a>
+                    <a href=""><b>Social</b>LITE</a>
                 </div>
                 <!-- /.login-logo -->
                 <div class="card">

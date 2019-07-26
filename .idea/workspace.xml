@@ -2,201 +2,198 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d7a5a5c-c131-4c24-b0fa-0cb7ac206dd6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/dist/css/adminlte.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/css/adminlte.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/css/adminlte.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/AdminLTELogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/avatar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/avatar04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/avatar2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/avatar3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/avatar5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/boxed-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/boxed-bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/american-express.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/cirrus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/mastercard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/mestro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/paypal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/paypal2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/credit/visa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/default-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/icons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/photo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/photo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/photo3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/photo4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user1-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user2-160x160.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user3-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user4-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user5-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user6-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user7-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/img/user8-128x128.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/adminlte.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/adminlte.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/adminlte.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/adminlte.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/demo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/pages/dashboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/pages/dashboard2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/pages/dashboard3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chart.js2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/Chart.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/Chart.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/Chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/Chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/cartesian/category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/cartesian/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/cartesian/linear.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/cartesian/logarithmic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/cartesian/time.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/labelling.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/radial/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/radial/linear.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/styling.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/area.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/bar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/bubble.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/doughnut.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/line.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/mixed.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/polar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/radar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/scatter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/animations.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/elements.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/legend.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/title.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/tooltip.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/api.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/axes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/charts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/contributing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/plugins.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/updates.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/colors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/device-pixel-ratio.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/fonts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/interactions/events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/interactions/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/interactions/modes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/options.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/responsive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/getting-started/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/getting-started/installation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/getting-started/integration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/getting-started/usage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-anchorjs/anchor-style.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-fontsettings/fontsettings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-fontsettings/website.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-ga/plugin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-highlight/ebook.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-highlight/website.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-search-plus/jquery.mark.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-search-plus/search.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-search-plus/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-sharing/buttons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/images/apple-touch-icon-precomposed-152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/notes/comparison.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/notes/extensions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/notes/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/notes/license.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/search_plus_index.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/css/font-awesome.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/jquery/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/jquery/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/jquery/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/jquery/jquery.slim.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper-utils.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper-utils.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper-utils.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper-utils.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper-utils.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper-utils.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper-utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper-utils.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper-utils.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper-utils.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/login.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/register.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/css/adminlte.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/css/adminlte.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/css/adminlte.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/AdminLTELogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/avatar04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/avatar2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/avatar3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/avatar5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/boxed-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/boxed-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/credit/american-express.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/credit/cirrus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/credit/mastercard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/credit/mestro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/credit/paypal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/credit/paypal2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/credit/visa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/default-150x150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/photo1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/photo2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/photo3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/photo4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/user1-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/user2-160x160.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/user3-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/user4-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/user5-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/user6-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/user7-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/img/user8-128x128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/adminlte.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/adminlte.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/adminlte.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/adminlte.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/pages/dashboard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/pages/dashboard2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/pages/dashboard3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/bootstrap/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chart.js2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/Chart.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/Chart.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/Chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/Chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/cartesian/category.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/cartesian/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/cartesian/linear.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/cartesian/logarithmic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/cartesian/time.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/labelling.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/radial/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/radial/linear.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/axes/styling.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/area.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/bubble.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/doughnut.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/line.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/mixed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/polar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/radar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/charts/scatter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/animations.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/legend.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/title.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/configuration/tooltip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/api.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/axes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/charts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/contributing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/plugins.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/developers/updates.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/colors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/device-pixel-ratio.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/fonts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/interactions/events.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/interactions/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/interactions/modes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/options.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/general/responsive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/getting-started/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/getting-started/installation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/getting-started/integration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/getting-started/usage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/fonts/fontawesome/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-anchorjs/anchor-style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/Chart.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/chartjs-plugin-deferred.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-chartjs/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-fontsettings/fontsettings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-fontsettings/website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-ga/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-highlight/ebook.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-highlight/website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-search-plus/jquery.mark.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-search-plus/search.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-search-plus/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook-plugin-sharing/buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/gitbook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/images/apple-touch-icon-precomposed-152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/gitbook/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/notes/comparison.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/notes/extensions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/notes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/notes/license.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/search_plus_index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/chartjs2/docs/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/css/font-awesome.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/jquery/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/jquery/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/jquery/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/jquery/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/jquery/jquery.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/esm/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/popper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper-utils.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper-utils.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/dist/js/plugins/popper/umd/popper.min.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/register.blade.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -212,44 +209,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="166" selection-start-line="28" selection-start-column="166" selection-end-line="28" selection-end-column="166" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-              <folding>
-                <element signature="e#157#2142#0#HTML" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/register.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="78" column="23" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="78" selection-end-column="23" />
-              <folding>
-                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/original">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1215">
-              <caret line="128" column="18" selection-start-line="128" selection-start-column="18" selection-end-line="128" selection-end-column="18" />
+            <state relative-caret-position="153">
+              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -406,13 +370,6 @@
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="auth" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="laravel-social-lite-demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-social-lite-demo" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -463,12 +420,12 @@
       <option name="presentableId" value="Default" />
       <updated>1563464626268</updated>
       <workItem from="1563464634466" duration="7304000" />
-      <workItem from="1564129386304" duration="3066000" />
+      <workItem from="1564129386304" duration="3827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10370000" />
+    <option name="totallyTimeSpent" value="11131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
@@ -590,24 +547,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/login.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="108" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="10" selection-end-column="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/original">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="128" column="18" selection-start-line="128" selection-start-column="18" selection-end-line="128" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -621,20 +564,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/original">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="166" selection-start-line="28" selection-start-column="166" selection-end-line="28" selection-end-column="166" />
+        <state relative-caret-position="1198">
+          <caret line="115" column="127" selection-start-line="115" selection-start-column="98" selection-end-line="115" selection-end-column="127" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/auth/register.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-          <folding>
-            <element signature="e#157#2142#0#HTML" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="40" column="101" selection-start-line="40" selection-start-column="101" selection-end-line="40" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="78" selection-start-line="61" selection-start-column="58" selection-end-line="61" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/auth/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
