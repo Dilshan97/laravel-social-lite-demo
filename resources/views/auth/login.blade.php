@@ -52,12 +52,20 @@
 
                         <div class="social-auth-links text-center mb-3">
                             <p>- OR -</p>
-                            <a href="#" class="btn btn-block btn-primary">
-                                <i class="fa fa-facebook mr-2"></i> Sign in using Facebook
-                            </a>
-                            <a href="#" class="btn btn-block btn-danger">
-                                <i class="fa fa-google-plus mr-2"></i> Sign in using Google+
-                            </a>
+                            <div class="row">
+                                <div class="col-2">
+                                    <a href="#" class="btn btn-primary btn-sm social"><i class="fa fa-facebook"></i> </a>
+                                </div>
+
+                                <div class="col-2">
+                                    <a href="#" class="btn btn-danger btn-sm social"><i class="fa fa-google-plus"></i> </a>
+                                </div>
+
+                                <div class="col-2">
+                                    <a href="#" class="btn btn-danger btn-sm social"><i class="fa fa-google-plus"></i> </a>
+                                </div>
+
+                            </div>
                         </div>
                         <!-- /.social-auth-links -->
 

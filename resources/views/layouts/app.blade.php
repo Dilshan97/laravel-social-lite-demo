@@ -35,6 +35,23 @@
         .register-logo a {
             color: #444;
         }
+
+        .social {
+             box-shadow: 0 5px 11px 0 rgba(0,0,0,.18), 0 4px 15px 0 rgba(0,0,0,.15);
+             width: 47px;
+             height: 47px;
+             position: relative;
+             z-index: 1;
+             vertical-align: middle;
+             display: inline-block;
+             overflow: hidden;
+             transition: all .2s ease-in-out;
+             margin: 10px;
+             /*border-radius: 50%;*/
+             padding: 0;
+             cursor: pointer;
+
+        }
     </style>
 </head>
 <body>
