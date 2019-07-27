@@ -53,18 +53,22 @@
                         <div class="social-auth-links text-center mb-3">
                             <p>- OR -</p>
                             <div class="row">
+
+                                <div class="col-2" style="margin-right: 15px;"></div>
+
                                 <div class="col-2">
-                                    <a href="#" class="btn btn-primary btn-sm social"><i class="fa fa-facebook"></i> </a>
+                                    <a href="{{ url('/login/facebook') }}" class="btn btn-primary btn-sm social"><i class="fa fa-facebook"></i> </a>
                                 </div>
 
                                 <div class="col-2">
-                                    <a href="#" class="btn btn-danger btn-sm social"><i class="fa fa-google-plus"></i> </a>
+                                    <a href="{{ url('/login/google') }}" class="btn btn-danger btn-sm social"><i class="fa fa-google"></i> </a>
                                 </div>
 
                                 <div class="col-2">
-                                    <a href="#" class="btn btn-danger btn-sm social"><i class="fa fa-google-plus"></i> </a>
+                                    <a href="{{ url('/login/github') }}" class="btn btn-dark btn-sm social"><i class="fa fa-github"></i> </a>
                                 </div>
 
+                                <div class="col-3"></div>
                             </div>
                         </div>
                         <!-- /.social-auth-links -->
