@@ -5,6 +5,10 @@
     <div class="row justify-content-center">
         <div class="col-md-4">
             <div class="card">
+                <div class="login-logo">
+                    <a href=""><b>Social</b>LITE</a>
+                </div>
+
                 <div class="card-body register-card-body">
                     <p class="login-box-msg">Register a new membership</p>
 
