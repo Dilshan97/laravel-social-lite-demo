@@ -24,13 +24,21 @@ This Repository discribe how to use Social authentication with Laravel's Officia
 6. Add your Social Account's `CLIENT_SECRETS`
 
      **Facebook** 
+     
        - Go to the `https://developers.facebook.com/`
+      
        - Then, click `Create App`
+       
        - Fill the `Display Name` & `Contact Email` then Click `Create App ID` button.
+       
        - You can display a App Dashboard. click `Settings  > Basic.`
+       
        - Copy `App ID` & `App Secret`
+       
        - Paste into the `.env`
+      
        - then fill the app domain as 'localhost'
+       
        - Save changes
 
 7. Run fallowing Command.
