@@ -41,6 +41,21 @@ This Repository discribe how to use Social authentication with Laravel's Officia
        
        - Save changes
 
+     **GitHub**
+     
+       - Go to the https://github.com
+       
+       - Then go to the Settings >  Developer settings.
+       
+       - Click OAuth Apps.
+       
+       - then click New OAuth App
+       
+       - Fill the details necessary
+       
+       - Register Application
+       
+       
 7. Run fallowing Command.
 		
 
