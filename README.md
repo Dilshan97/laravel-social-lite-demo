@@ -20,12 +20,15 @@ This Repository discribe how to use Social authentication with Laravel's Officia
     php artisan key:generate
 
 5. Set Database credentials.
-6. Run fallowing Command.
+
+6. Add your Social Account's `CLIENT_SECRETS`
+
+7. Run fallowing Command.
 		
 
     `php artisan migrate`
 
-7. Run your project using fallowing command.
+8. Run your project using fallowing command.
 		
 
     `php artisan serve --port=8081`
