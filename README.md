@@ -5,6 +5,8 @@ This Repository discribe how to use Social authentication with Laravel's Officia
 
  ## Getting Started
 
+    Official Package -> `https://github.com/laravel/socialite`
+    
 ### Installation:
 
 1. Clone the repository and import it to your favorite IDE.
