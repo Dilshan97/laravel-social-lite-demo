@@ -25,7 +25,7 @@ This Repository discribe how to use Social authentication with Laravel's Officia
 
      **Facebook** 
      
-       - Go to the `https://developers.facebook.com/`
+       - Go to the 'https://developers.facebook.com'
       
        - Then, click `Create App`
        
