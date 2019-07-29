@@ -19,7 +19,7 @@ This Repository discribe how to use Social authentication with Laravel's Officia
 4. Run the fallowing Command
 		
 
-    php artisan key:generate
+    `php artisan key:generate`
 
 5. Set Database credentials.
 
