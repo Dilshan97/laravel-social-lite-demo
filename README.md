@@ -11,7 +11,7 @@ This Repository discribe how to use Social authentication with Laravel's Officia
 2. Run the fallowing Command.
 		
 
-    composer install
+    `composer install`
 
 3. Make a copy of `.env.example` and Rename it to `.env`
 4. Run the fallowing Command
@@ -23,12 +23,12 @@ This Repository discribe how to use Social authentication with Laravel's Officia
 6. Run fallowing Command.
 		
 
-    php artisan migrate
+    `php artisan migrate`
 
 7. Run your project using fallowing command.
 		
 
-    php artisan serve --port=8081
+    `php artisan serve --port=8081`
 
 
 
