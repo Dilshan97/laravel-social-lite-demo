@@ -69,7 +69,7 @@ This Repository discribe how to use Social authentication with Laravel's Officia
     `php artisan serve --port=8081`
 
 Demo
-    ![enter image description here](https://lh3.googleusercontent.com/wD8I6F343NpFVW9og2v9luAiAZiM0h_tP0nHeLo3ZZalgVni_cemp56AHFSuwCPLgCt8iyHBFtGi)
+    ![enter image description here](https://lh3.googleusercontent.com/dxOoNsogXt6zycAkAX5GksjoiadfKa_p7ajatqtc32CnznhtWcaSJEQnPhBZrX2WVTvEZSlR-RTW)
 
 
 
